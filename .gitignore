@@ -1,0 +1,16 @@
+
+# Ignore Java files
+ecom-backend/target/
+ecom-backend/.idea/
+ecom-backend/.classpath
+ecom-backend/.project
+ecom-backend/.settings/
+
+# Ignore Node modules
+ecom-frontend/node_modules/
+ecom-frontend/.env
+ecom-frontend/build/
+
+# Ignore system files
+.DS_Store
+*.log
