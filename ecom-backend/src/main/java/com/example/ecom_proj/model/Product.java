@@ -1,3 +1,12 @@
+//git status
+//git add .
+//git commit -m "your message"
+//git push
+
+
+
+
+
 package com.example.ecom_proj.model;
 
 import java.math.BigDecimal;
